@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.exe
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.deps.json
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.runtimeconfig.json
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.dll
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\bin\Debug\netcoreapp3.1\DelegateConcept.pdb
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.dll
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.pdb
+C:\Users\Admin\source\repos\DelegateConcept\DelegateConcept\obj\Debug\netcoreapp3.1\DelegateConcept.genruntimeconfig.cache
